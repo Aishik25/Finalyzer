@@ -1,0 +1,14 @@
+pandas
+spacy
+scikit-learn
+matplotlib
+fuzzywuzzy
+python-Levenshtein
+PyYAML
+PyPDF2
+pytesseract
+streamlit
+pdf2image
+plotly
+numpy
+Pillow

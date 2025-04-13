@@ -1,0 +1,31 @@
+Date,Description,Amount,Category,Risk
+2023-10-01,Salary Credit,75000.0,miscellaneous,Normal
+2023-10-02,ATM Withdrawal - Main Branch,10000.0,miscellaneous,Normal
+2023-10-03,Zomato Order #12345,650.0,food,Normal
+2023-10-04,Amazon Prime Membership,1499.0,subscriptions,Normal
+2023-10-05,UBER RIDE - BLR,285.0,transport,Normal
+2023-10-06,BigBasket Groceries,3200.0,financial_services,Normal
+2023-10-07,Myntra Fashion Purchase,4500.0,shopping,High Risk
+2023-10-08,Shell Petrol Pump,1200.0,financial_services,Normal
+2023-10-09,Netflix Subscription,649.0,subscriptions,Normal
+2023-10-10,Swiggy Food Order,850.0,food,Normal
+2023-10-11,Airtel Postpaid Bill,799.0,financial_services,Normal
+2023-10-12,Flipkart Electronics,18500.0,shopping,Normal
+2023-10-13,OLA Auto Ride,150.0,transport,High Risk
+2023-10-14,Restaurant - Taj Hotel,3500.0,food,Normal
+2023-10-15,Apollo Pharmacy,450.0,financial_services,Normal
+2023-10-16,Apple Music Subscription,99.0,financial_services,Normal
+2023-10-17,Foreign Transaction Fee,500.0,miscellaneous,Normal
+2023-10-18,ATM Cash Deposit,5000.0,financial_services,Normal
+2023-10-19,LIC Premium Payment,5000.0,miscellaneous,Normal
+2023-10-20,Starbucks Coffee,400.0,miscellaneous,Normal
+2023-10-21,BookMyShow Tickets,1200.0,miscellaneous,Normal
+2023-10-22,Zepto Quick Delivery,550.0,miscellaneous,Normal
+2023-10-23,CRED Cashback,150.0,miscellaneous,Normal
+2023-10-24,BMW Car Service,22000.0,financial_services,Normal
+2023-10-25,Pizza Hut Dine-in,1200.0,food,Normal
+2023-10-26,Spotify Premium,199.0,subscriptions,Normal
+2023-10-27,Blinkit Grocery Delivery,750.0,miscellaneous,Normal
+2023-10-28,IRCTC Train Booking,850.0,transport,Normal
+2023-10-29,DMart Shopping,2800.0,shopping,Normal
+2023-10-30,Google One Storage,195.0,financial_services,Normal
