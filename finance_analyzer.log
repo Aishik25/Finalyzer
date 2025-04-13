@@ -1,0 +1,33 @@
+2025-04-13 17:32:43,019 - INFO - Cleared previous file: analyzed_statement.csv
+2025-04-13 17:33:17,191 - INFO - Loaded 30 valid transactions
+2025-04-13 17:33:25,991 - INFO - Cleared previous file: expense_chart.html
+2025-04-13 17:33:26,005 - INFO - Loaded 30 valid transactions
+2025-04-13 17:33:42,744 - INFO - Cleared previous file: expense_chart.html
+2025-04-13 17:33:42,763 - INFO - Loaded 49 valid transactions
+2025-04-13 17:33:46,402 - INFO - Cleared previous file: expense_chart.html
+2025-04-13 17:33:46,419 - INFO - Loaded 49 valid transactions
+2025-04-13 17:34:12,662 - INFO - Cleared previous file: expense_chart.html
+2025-04-13 17:34:12,676 - INFO - Loaded 49 valid transactions
+2025-04-13 17:34:23,965 - INFO - Cleared previous file: expense_chart.html
+2025-04-13 17:34:23,979 - INFO - Loaded 49 valid transactions
+2025-04-13 17:34:30,081 - INFO - Cleared previous file: expense_chart.html
+2025-04-13 17:34:30,095 - INFO - Loaded 49 valid transactions
+2025-04-13 17:36:57,870 - INFO - Cleared previous file: expense_chart.html
+2025-04-13 17:36:57,928 - INFO - Loaded 0 valid transactions
+2025-04-13 17:37:46,971 - ERROR - Error loading statement: Missing required columns: {'Date'}
+2025-04-13 17:37:52,886 - ERROR - Error loading statement: Missing required columns: {'Date'}
+2025-04-13 17:37:55,907 - INFO - Loaded 49 valid transactions
+2025-04-13 17:38:04,681 - INFO - Cleared previous file: expense_chart.html
+2025-04-13 17:38:04,698 - INFO - Loaded 49 valid transactions
+2025-04-13 17:38:08,610 - INFO - Cleared previous file: expense_chart.html
+2025-04-13 17:38:16,333 - INFO - Loaded 49 valid transactions
+2025-04-13 17:38:20,457 - INFO - Cleared previous file: expense_chart.html
+2025-04-13 17:38:20,473 - INFO - Loaded 49 valid transactions
+2025-04-13 17:51:36,430 - INFO - Cleared previous file: expense_chart.html
+2025-04-13 18:34:07,213 - ERROR - Error loading statement: Missing required columns: {'Date'}
+2025-04-13 18:34:16,887 - ERROR - Error loading statement: Missing required columns: {'Date'}
+2025-04-13 18:34:21,769 - INFO - Loaded 30 valid transactions
+2025-04-13 18:34:32,750 - INFO - Cleared previous file: expense_chart.html
+2025-04-13 18:34:32,767 - INFO - Loaded 49 valid transactions
+2025-04-13 18:35:44,216 - INFO - Cleared previous file: expense_chart.html
+2025-04-13 18:35:44,228 - INFO - Loaded 49 valid transactions
