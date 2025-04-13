@@ -16,6 +16,15 @@ import plotly.express as px
 from datetime import datetime
 import numpy as np
 from typing import Dict, List, Optional
+import subprocess
+
+# Automatically download the model if not available
+try:
+    nlp = spacy.load("en_core_web_sm", disable=["parser", "tagger", "lemmatizer"])
+except OSError:
+    subprocess.run(["python", "-m", "spacy", "download", "en_core_web_sm"])
+    nlp = spacy.load("en_core_web_sm", disable=["parser", "tagger", "lemmatizer"])
+
 
 logging.basicConfig(
     level=logging.INFO,
@@ -71,7 +80,6 @@ def load_config() -> Dict:
 
 config = load_config()
 
-nlp = spacy.load("en_core_web_sm", disable=["parser", "tagger", "lemmatizer"])
 
 def clear_previous_data():
     """Clean up previous analysis files"""
