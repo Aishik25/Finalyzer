@@ -11,7 +11,7 @@ import PyPDF2
 import pytesseract
 import streamlit as st
 import tempfile
-from pdf2image import convert_from_ path
+from pdf2image import convert_from_path
 import plotly.express as px
 from datetime import datetime
 import numpy as np
